@@ -42,7 +42,7 @@ export default {
       motto: 'Hello miniprograme',
       userInfo: {
         nickName: 'mpvue',
-        avatarUrl: 'http://mpvue.com/assets/logo.png'
+        avatarUrl: '/static/images/logo.png'
       }
     }
   },
